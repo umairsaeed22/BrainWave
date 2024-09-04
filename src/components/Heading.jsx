@@ -1,4 +1,4 @@
-import TagLine from "/Users/embraceit/Desktop/BrainWave/src/components/Tagline.jsx";
+import TagLine from "./Tagline";
 
 const Heading = ({ className, title, text, tag }) => {
   return (
